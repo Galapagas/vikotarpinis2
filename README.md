@@ -20,6 +20,6 @@
   </style>
 </head>
 <body>
-  <img src="image.jpg" alt="My Image">
+  <img src="tarpinis.png" alt="My Image">
 </body>
 </html>
